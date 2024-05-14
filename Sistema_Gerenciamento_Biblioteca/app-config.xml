@@ -1,0 +1,9 @@
+<config>
+    <database url="jdbc:mysql://127.0.0.1:3306/SGB_AQ6027537" user="root" password="1234"/>
+	
+    <!--Servidor na faculdade-->
+    <!--<database url="jdbc:mysql://127.0.0.1:3307/SGB_AQ6027537" user="root" password="root"/>-->
+    <!--Servidor casa-->
+    <!--<database url="jdbc:mysql://127.0.0.1:3306/SGB_AQ6027537" user="root" password="1234"/>-->
+
+</config>
